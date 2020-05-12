@@ -1,0 +1,4 @@
+C:\Users\mehrd\source\repos\share_linux\share_linux\bin\Debug\netcoreapp3.1\share_linux.exe
+C:\Users\mehrd\source\repos\share_linux\share_linux\obj\Debug\netcoreapp3.1\share_linux.csprojAssemblyReference.cache
+C:\Users\mehrd\source\repos\share_linux\share_linux\obj\Debug\netcoreapp3.1\share_linux.AssemblyInfoInputs.cache
+C:\Users\mehrd\source\repos\share_linux\share_linux\obj\Debug\netcoreapp3.1\share_linux.AssemblyInfo.cs
